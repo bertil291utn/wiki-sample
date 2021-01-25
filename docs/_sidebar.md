@@ -1,4 +1,4 @@
-- Women Who Code Manila
+- Introduction to ROHs
     - [Home](/)
     - [About WWCode Manila](about.md)
     - [Study Groups](study_groups.md)
